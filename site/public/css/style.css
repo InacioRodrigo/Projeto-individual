@@ -1,0 +1,35 @@
+body{
+    background-color: grey;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.conteiner{
+    padding: 25% 155px;
+    height: 80%;
+    width: 80%;
+    background-image: url("/imgs/PlanoParte2.jpg");
+    background-size: cover;
+    display: flex;
+    margin: auto;
+
+}
+
+.container_bar{
+    display: flex;
+    font-size: large;
+    height: 10%;
+    width: 99%;
+    border: rgb(37, 87, 236) solid 5px;
+    background-color: rgb(182, 182, 235);
+    padding: 15px 0px;
+}
+
+.nav_bar{
+    display: flex;
+    flex-direction: row;
+    padding: 0px 15px;
+    width: 80%;
+
+}
